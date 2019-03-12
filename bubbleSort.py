@@ -13,4 +13,4 @@ for i in range(0, len(x)):
             x[j] = y
 
 #printing the list after sorting it in ascending order
-print("After Sorting : ", " ".join(x))
+print("After Sorting : ",".join(x))
