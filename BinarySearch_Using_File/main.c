@@ -1,8 +1,12 @@
+//Binary Search Operation Using Inputs From A File And Showing Output To Another File.
+
 #include<stdio.h>
+
 int main()
 {
     int n,i;
     int search;
+    
     FILE *fptr,*optr;
 
     fptr = fopen("input_file.txt", "r");
