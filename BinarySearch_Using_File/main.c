@@ -5,8 +5,8 @@ int main()
     int search;
     FILE *fptr,*optr;
 
-    fptr = fopen("sakib.txt", "r");
-    optr = fopen("sakibK.txt","w");
+    fptr = fopen("input_file.txt", "r");
+    optr = fopen("output_file.txt","w");
 
     fscanf(fptr,"%d", &n);
 
