@@ -98,7 +98,7 @@ NODE *insert(int pos,int item , NODE* head)
     }
     else
     {
-    while(j!= NULL)
+    while(j->next != NULL)
     {   i = i + 1; 
         if(i == pos)
         {
