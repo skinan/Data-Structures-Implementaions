@@ -109,7 +109,7 @@ NODE *insert(int pos,int item , NODE* head)
         }
         
         j = j->next;
-        //i = i + 1;
+        
         
         
     }
