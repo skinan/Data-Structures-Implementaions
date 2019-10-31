@@ -1,2 +1,2 @@
-# Data_Structures
-Problems solved in data structure course...
+# Data Structures Implementaions
+Some basic problems solved in data structure course of Bachelors Degree.
